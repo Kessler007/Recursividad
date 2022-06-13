@@ -1,5 +1,5 @@
 //import src.Ejercicios;
-//import src.jercicio2;
+import src.jercicio2;
 
 public class main {
     public static void main(String[] args) {
